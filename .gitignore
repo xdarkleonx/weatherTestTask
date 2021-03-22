@@ -59,7 +59,6 @@ buck-out/
 /ios/Pods/
 
 /ios
-/android
 .vscode
 __tests__
 run.bat
